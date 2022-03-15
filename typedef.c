@@ -7,6 +7,7 @@ int main()
     intptr a,b,c;
     b = &a;
     c = &b;
+    printf("Aatif\n");
     printf("%d %d",a,b);
     return 0;
 }
